@@ -31,13 +31,6 @@ Proyek ini adalah HTML statis, sehingga tidak memerlukan instalasi apapun.
 
 ---
 
-## Mulai dari Mana?
-
-1. **Buka `index.html`**, temukan komentar `TODO` di bagian atas dan ganti teks `Siswa Front-End` dengan nama lengkap serta username Dicoding Anda.
-2. **Buka `main.js`**, baca semua komentar `TODO` dari atas ke bawah. Setiap TODO menunjukkan satu bagian logika yang perlu Anda tulis.
-3. Mulai dari TODO berlabel `[Basic]`, kemudian lanjut ke `[Skilled]` dan `[Advanced]` sesuai target nilai Anda.
-
----
 
 ## Catatan Penting
 
@@ -47,8 +40,3 @@ Proyek ini adalah HTML statis, sehingga tidak memerlukan instalasi apapun.
 
 ---
 
-## Cara Mengumpulkan
-
-1. Pastikan semua fitur sudah berjalan dengan baik di browser.
-2. Kompres seluruh folder proyek menjadi satu berkas **ZIP**.
-3. Unggah berkas ZIP tersebut ke halaman submission di platform Dicoding.
